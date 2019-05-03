@@ -164,9 +164,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     color = Color.argb(255, rnd.nextInt(256), rnd.nextInt(256), rnd.nextInt(256));
                     btnAdd.setBackgroundColor(color);
 
-
                     break;
-
+            //  test git
         }
 
     }
